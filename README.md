@@ -15,10 +15,9 @@
 
 👤 **Author1**
 
-- GitHub: [@wandergithub](https://github.com/githubhandle)
-- Twitter: [@wanderklk1](https://twitter.com/twitterhandle)
-- LinkedIn: [Wander A. Gonzalez](https://linkedin.com/in/linkedinhandle)
-
+- GitHub: [@wandergithub](https://github.com/wandergithub)
+- Twitter: [@wanderklk1](https://twitter.com/wanderklk1)
+- LinkedIn: [Wander A. Gonzalez](https://www.linkedin.com/in/wander-a-gonzalez-53127b205/)
 
 ## Show your support
 
